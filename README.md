@@ -9,7 +9,7 @@ Soy Desarrollador de Aplicaciones Web. Sin duda, me siento muy afortunado de hab
 - <a href="https://www.facebook.com/PabloGarciaJC"> Facebook</a>
 - <a href="https://www.youtube.com/channel/UC5I4oY7BeNwT4gBu1ZKsEhw"> Youtube</a>
 </p>
-<h3 align="left">Conocimientos:</h3>
+<h3 align="left">Conocimientos en:</h3>
 
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"></a>
