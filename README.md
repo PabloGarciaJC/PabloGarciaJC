@@ -2,8 +2,8 @@
 
 Soy especialista en el desarrollo de aplicaciones web. Sin duda, me siento muy afortunado de haber encontrado lo que me apasiona y de hacer de ello mi trabajo. 
 
-Encuentrame en 🌎 :
-- <a href="https://pablogarciajc.com/">Pablo Garcia JC</a> 📹
+Encuentrame en :
+- <a href="https://pablogarciajc.com/">Sitio Web</a>
 - 
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
