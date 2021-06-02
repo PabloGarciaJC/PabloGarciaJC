@@ -1,9 +1,11 @@
-# Hola, Mi Nombre es Pablo Garcia.
+# 👋 Hola, Mi Nombre es Pablo Garcia.
 
 Soy Desarrollador de Aplicaciones Web. Sin duda, me siento muy afortunado de haber encontrado lo que me apasiona y de hacer de ello mi trabajo. 
 
 Encuentrame en :
 - <a href="https://pablogarciajc.com/">Sitio Web</a>
+
+Sigueme en Mis Redes Sociales :
 - 
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
