@@ -24,7 +24,7 @@ Sigueme en Mis Redes Sociales :
     <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/piyushp7pravin/">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+    <img align="left" alt="Piyush Pravin | Youtube" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
 
 <!--
