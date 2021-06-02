@@ -1,6 +1,6 @@
 # Hola, Mi Nombre es Pablo Garcia.
 
-Soy especialista en el desarrollo de aplicaciones web. Sin duda, me siento muy afortunado de haber encontrado lo que me apasiona y de hacer de ello mi trabajo. 
+Soy Desarrollador de Aplicaciones Web. Sin duda, me siento muy afortunado de haber encontrado lo que me apasiona y de hacer de ello mi trabajo. 
 
 Encuentrame en :
 - <a href="https://pablogarciajc.com/">Sitio Web</a>
