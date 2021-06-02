@@ -4,10 +4,10 @@ Soy Desarrollador de Aplicaciones Web. Sin duda, me siento muy afortunado de hab
 
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
-<a href="https://pablogarciajc.com/">Sitio Web</a>
-<a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a>
-<a href="https://codepen.io/m0nica"> Facebook</a>
-<a href="https://codepen.io/m0nica"> Youtube</a>
+⚡ <a href="https://pablogarciajc.com/">Sitio Web</a>
+⚡ <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a>
+⚡ <a href="https://codepen.io/m0nica"> Facebook</a>
+⚡ <a href="https://codepen.io/m0nica"> Youtube</a>
 </p>
 <h3 align="left">Lenguajes:</h3>
 
