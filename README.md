@@ -4,8 +4,6 @@ Soy Desarrollador de Aplicaciones Web. Sin duda, me siento muy afortunado de hab
 
 Encuentrame en :
 - <a href="https://pablogarciajc.com/">Sitio Web</a>
-
-Sigueme en Mis Redes Sociales :
 - <a href="https://codepen.io/m0nica"> Youtube</a>
 - <a href="https://codepen.io/m0nica"> Facebook</a>
 - <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a>
