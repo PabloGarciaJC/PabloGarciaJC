@@ -5,14 +5,14 @@ Soy Desarrollador de Aplicaciones Web. Sin duda, me siento muy afortunado de hab
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
 - <a href="https://pablogarciajc.com/">Sitio Web</a>
-- <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a>
-- <a href="https://codepen.io/m0nica"> Facebook</a>
-- <a href="https://codepen.io/m0nica"> Youtube</a>
+- <a href="https://www.linkedin.com/in/pablogarciajc/">LinkedIn</a>
+- <a href="https://www.facebook.com/PabloGarciaJC"> Facebook</a>
+- <a href="https://www.youtube.com/channel/UC5I4oY7BeNwT4gBu1ZKsEhw"> Youtube</a>
 </p>
 <h3 align="left">Lenguajes:</h3>
 
 <p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"></a>
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">
