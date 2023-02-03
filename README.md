@@ -28,6 +28,18 @@ Soy Desarrollador de Aplicaciones Web. Sin duda, me siento muy afortunado de hab
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">
 </p></a>
 
+<table>
+  <tr>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="300" 		height="300"/></a>
+	</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="300" 		height="300"/></a></td>
+  </tr>
+ <!-- <tr>
+    <<td>February</td>
+    <td>$80</td>
+  </tr> -->
+</table>
+
 <!--
 **PabloGarciaJC/pablogarciajc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
