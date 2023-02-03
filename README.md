@@ -31,8 +31,8 @@ Soy Desarrollador de Aplicaciones Web. Sin duda, me siento muy afortunado de hab
 <table>
   <tr>
     <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="300" 		height="300"/></a>
-	</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="300" 		height="300"/></a></td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="400" height="400"/></a>
+	</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="400" 		height="400"/></a></td>
   </tr>
  <!-- <tr>
     <<td>February</td>
