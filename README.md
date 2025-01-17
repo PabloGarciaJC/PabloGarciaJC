@@ -37,9 +37,7 @@ Una de mis principales responsabilidades es implementar prácticas de diseño re
 
 ## 📝 Algunos blogs Publicados
 
-| <img src="https://pablogarciajc.com/wp-content/uploads/2024/04/img0-docker.webp" alt="Docker Blog" style="border: 2px solid #ccc;"/> | <img src="https://pablogarciajc.com/wp-content/uploads/2024/04/img0-principios-solid.webp" alt="Principios SOLID Blog" style="border: 2px solid #ccc;"/> | <img src="https://pablogarciajc.com/wp-content/uploads/2024/04/pablogarciajc-img00-arquitectura-hexagonal.webp" alt="Arquitectura Hexagonal Blog" style="border: 2px solid #ccc;"/> |
+| [![Blog Image 1](https://pablogarciajc.com/wp-content/uploads/2024/04/img0-docker.webp)](https://pablogarciajc.com/blog/docker/) | [![Blog Image 2](https://pablogarciajc.com/wp-content/uploads/2024/04/img0-principios-solid.webp)](https://pablogarciajc.com/blog/principios-solid-programacion/) | [![Blog Image 3](https://pablogarciajc.com/wp-content/uploads/2024/04/pablogarciajc-img00-arquitectura-hexagonal.webp)](https://pablogarciajc.com/blog/arquitectura-hexagonal/) |
 | --- | --- | --- |
-| <img src="https://pablogarciajc.com/wp-content/uploads/2024/04/pablogarciajc-img00-API-REST.webp" alt="API REST Blog" style="border: 2px solid #ccc;"/> | <img src="https://pablogarciajc.com/wp-content/uploads/2024/04/pablogarciajc-img0-linux.webp" alt="Linux Blog" style="border: 2px solid #ccc;"/> | 
-
-
+| [![Blog Image 4](https://pablogarciajc.com/wp-content/uploads/2024/04/pablogarciajc-img00-API-REST.webp)](https://pablogarciajc.com/blog/api-rest/) | [![Blog Image 6](https://pablogarciajc.com/wp-content/uploads/2024/04/pablogarciajc-img0-linux.webp)](https://pablogarciajc.com/blog/linux/) |
 
