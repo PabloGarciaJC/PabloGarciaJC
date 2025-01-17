@@ -8,17 +8,11 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
 ### 👨‍💻 &nbsp;Sobre Mí
+  
+Trabajo como Programador Web Freelance, ofreciendo servicios internacionales y desarrollo personalizado. Actualmente, me desempeño como Desarrollador Front-End en una agencia especializada en diseño de tiendas online. En mi rol, me encargo del desarrollo y mantenimiento del sistema de gestión de contenido (CMS) privado, trabajando con tecnologías como PHP, JavaScript y MySQL.
 
-💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones web personalizadas que se ajusten a las necesidades de mis clientes.  
-🌍 &nbsp;Trabajo como **Programador Web Freelance**, ofreciendo servicios internacionales y desarrollo personalizado.  
-🎓 &nbsp;Soy **Técnico Superior en Electrónica** desde 2013 y he orientado mi carrera hacia el desarrollo web desde 2019, combinando mis conocimientos técnicos con nuevas habilidades digitales.  
-🌱 &nbsp;Actualmente, sigo aprendiendo sobre **Web3**, **Microservicios**, y **Machine Learning** para mejorar mis habilidades y adaptarme a la evolución del mercado.  
-✍️ &nbsp;En mi tiempo libre, disfruto de la **escritura de blogs** y la creación de **diseños de logotipos** como hobbies y proyectos personales.  
-💬 &nbsp;No dudes en contactarme para consultas, trabajo pro bono o simplemente para una charla interesante.  
-✉️ &nbsp;Puedes escribirme un correo a [tu_correo_electronico]. Estaré encantado de responderte lo más rápido posible.  
-📄 &nbsp;Si deseas conocer más sobre mi trayectoria, te invito a ver mi [Resumen de Experiencia](https://pablogarciajc.com/resume) para más detalles. ¡Estoy abierto a sugerencias y comentarios!
-
-
+Una de mis principales responsabilidades es implementar prácticas de diseño responsivo y accesibilidad para garantizar que las tiendas online ofrezcan una experiencia óptima en dispositivos de diferentes tamaños. También me enfoco en la creación de addons personalizados para mejorar la funcionalidad del CMS, asegurando que las tiendas online funcionen de manera eficiente y sin problemas en cualquier dispositivo. 
+ 
 ### 🛠 &nbsp;Tecnologías
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777777.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -34,7 +28,6 @@
 
 ### 🤝🏻 &nbsp;Conecta conmigo
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:[tu_correo_electronico])
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)]([Tu_Linkedin])
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]([Tu_GitHub])
 [![Sitio Web](https://img.shields.io/badge/-SitioWeb-3423A6?style=flat&logo=Google-Chrome&logoColor=white)]([Tu_Website])
