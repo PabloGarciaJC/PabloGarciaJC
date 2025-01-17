@@ -28,15 +28,12 @@ Una de mis principales responsabilidades es implementar prácticas de diseño re
 
 ### 🤝🏻 &nbsp;Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)]([Tu_Linkedin])
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]([Tu_GitHub])
-[![Sitio Web](https://img.shields.io/badge/-SitioWeb-3423A6?style=flat&logo=Google-Chrome&logoColor=white)]([Tu_Website])
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)]([Tu_YouTube])
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)]([Tu_Instagram])
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)]([Tu_Facebook])
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)]([Tu_Twitter])
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white)]([Tu_TikTok])
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablogarciajc/)
+[![Sitio Web](https://img.shields.io/badge/-SitioWeb-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://pablogarciajc.com/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5I4oY7BeNwT4gBu1ZKsEhw)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pablogarciajc/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/PabloGarciaJC)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/x/migrate?tok=7b2265223a222f5061626c6f4761726369614a433f743d6c6374316778764538446b714172386467787248497726733d3039222c2274223a313733373037363135397de7b0360c2aa7f123cba62323f2c3fb42)
 
 ## 📝 Algunos blogs Publicados
 
