@@ -26,7 +26,7 @@ Me considero un profesional comprometido, 𝗮𝘂𝘁𝗼𝗱𝗶𝗱𝗮𝗰�
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/WordPress-%2339ACFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 
-### 🤝🏻 &nbsp;Conecta conmigo
+### 🤝🏻 &nbsp;Conécta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablogarciajc/)
 [![Sitio Web](https://img.shields.io/badge/-SitioWeb-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://pablogarciajc.com/)
