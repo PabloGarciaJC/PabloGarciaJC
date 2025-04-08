@@ -7,11 +7,10 @@
 
 ### 👨‍💻 &nbsp;Sobre Mí
   
-Comencé mi carrera como desarrollador web en 𝟮𝟬𝟭𝟵, y desde entonces he trabajado en la creación de aplicaciones web escalables. Me especializo en tecnologías como 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦 (𝗕𝗘𝗠), 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗣𝗛𝗣 (𝗟𝗮𝗿𝗮𝘃𝗲𝗹 𝘆 𝗦𝘆𝗺𝗳𝗼𝗻𝘆), y 𝗯𝗮𝘀𝗲𝘀 𝗱𝗲 𝗱𝗮𝘁𝗼𝘀 𝗦𝗤𝗟. Además, desarrollo 𝗔𝗣𝗜𝘀 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 y utilizo 𝗗𝗼𝗰𝗸𝗲𝗿 tanto en mis proyectos personales como en mi trabajo profesional para gestionar entornos de desarrollo consistentes y eficientes. Uso 𝗚𝗶𝘁 y 𝗚𝗶𝘁𝗛𝘂𝗯 para versionar mis proyectos y garantizar un flujo de trabajo organizado. También tengo experiencia en la creación y personalización de sitios web con 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀.
+Inicié mi carrera como **desarrollador web** en **2019**, y desde entonces me he dedicado a crear **aplicaciones web escalables** y eficientes. He desarrollado proyectos tanto propios como **freelance**, ofreciendo soluciones personalizadas para diversos clientes.
 
-Mi enfoque está en crear soluciones responsivas y accesibles, garantizando una experiencia de usuario impecable y un rendimiento excepcional. Soy apasionado por la optimización 𝗦𝗘𝗢, la integración de APIs y la 𝗺𝗮𝗾𝘂𝗲𝘁𝗮𝗰𝗶ó𝗻 𝘄𝗲𝗯 para asegurar que cada proyecto funcione a la perfección.
+Actualmente, trabajo en una empresa especializada en **soluciones digitales**, donde contribuyo al desarrollo a medida de un **CMS** orientado a **comercio electrónico**.
 
-Me considero un profesional comprometido, 𝗮𝘂𝘁𝗼𝗱𝗶𝗱𝗮𝗰𝘁𝗮 y 𝗿𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝘃𝗼, siempre buscando innovar y mejorar mis soluciones tecnológicas. Soy un firme defensor de 𝗹𝗮𝘀 𝗯𝘂𝗲𝗻𝗮𝘀 𝗽𝗿á𝗰𝘁𝗶𝗰𝗮𝘀 𝘆 𝗲𝗹 𝗰ó𝗱𝗶𝗴𝗼 𝗹𝗶𝗺𝗽𝗶𝗼, asegurando eficiencia, escalabilidad y mantenibilidad a largo plazo.
  
 ### 🛠 &nbsp;Tecnologías
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
