@@ -14,22 +14,22 @@ Actualmente, trabajo en una empresa especializada en **soluciones digitales**, d
  
 ### 🛠 &nbsp;Tecnologías
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;  
-![PHP](https://img.shields.io/badge/php-%23777777.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;   
-![SQL](https://img.shields.io/badge/sql-%234478A8.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;  
-![WordPress](https://img.shields.io/badge/WordPress-%2339ACFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;  
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)&nbsp;  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;  
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952b3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;  
-![Laravel](https://img.shields.io/badge/laravel-%23F4534B.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;  
-![API REST](https://img.shields.io/badge/API%20REST-%2332A3FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;  
-![PHPUnit](https://img.shields.io/badge/phpunit-%23366488.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777777.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/sql-%234478A8.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-%2339ACFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952b3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%23F4534B.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![API REST](https://img.shields.io/badge/API%20REST-%2332A3FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![PHPUnit](https://img.shields.io/badge/phpunit-%23366488.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;Conécta conmigo
 
