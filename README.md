@@ -5,7 +5,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
-### 👨‍💻 &nbsp;Sobre Mí
+### &nbsp;Sobre Mí
   
 Desarrollador Full Stack especializado en PHP (Laravel) y JavaScript, con experiencia desde 2019 en el desarrollo de aplicaciones web, APIs y plataformas eCommerce.
 
@@ -16,7 +16,7 @@ He formado parte de equipos de desarrollo en empresas del sector eCommerce, cont
 Actualmente combino mi trabajo profesional con el desarrollo de proyectos personales y la creación de contenido técnico sobre desarrollo web y arquitectura de software.
 
  
-### 🛠 &nbsp;Tecnologías
+### &nbsp;Tecnologías
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@ Actualmente combino mi trabajo profesional con el desarrollo de proyectos person
 ![API REST](https://img.shields.io/badge/API%20REST-%2332A3FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![PHPUnit](https://img.shields.io/badge/phpunit-%23366488.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
-### 🤝🏻 &nbsp;Conécta conmigo
+### &nbsp;Conécta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablogarciajc/)
 [![Sitio Web](https://img.shields.io/badge/-SitioWeb-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://pablogarciajc.com/)
