@@ -7,9 +7,13 @@
 
 ### 👨‍💻 &nbsp;Sobre Mí
   
-Inicié mi carrera como **desarrollador web** en **2019**, y desde entonces me he dedicado a crear **aplicaciones web escalables** y eficientes. He desarrollado proyectos tanto propios como **freelance**, ofreciendo soluciones personalizadas para diversos clientes.
+Desarrollador Full Stack especializado en PHP (Laravel) y JavaScript, con experiencia desde 2019 en el desarrollo de aplicaciones web, APIs y plataformas eCommerce.
 
-Actualmente, trabajo en una empresa especializada en **soluciones digitales**, donde contribuyo al desarrollo a medida de un **CMS** orientado a **comercio electrónico**.
+A lo largo de mi trayectoria he trabajado en proyectos freelance y en entornos profesionales, participando en el desarrollo y mantenimiento de plataformas de alto tráfico, enfocado en rendimiento, escalabilidad y buenas prácticas de desarrollo.
+
+He formado parte de equipos de desarrollo en empresas del sector eCommerce, contribuyendo a la evolución de sistemas reales en producción, así como en la creación de soluciones a medida para distintos clientes.
+
+Actualmente combino mi trabajo profesional con el desarrollo de proyectos personales y la creación de contenido técnico sobre desarrollo web y arquitectura de software.
 
  
 ### 🛠 &nbsp;Tecnologías
