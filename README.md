@@ -1,6 +1,6 @@
 # 👋 Hola, Mi Nombre es Pablo Garcia.
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://pablogarciajc.com/wp-content/uploads/2024/02/banner_desktop_pablogarciajc_programador_desarrador_web.webp)](https://pablogarciajc.com/wp-content/uploads/2024/02/banner_desktop_pablogarciajc_programador_desarrador_web.webp)
+[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://pablogarciajc.com/wp-content/uploads/2026/05/BannerProfessional.webp)](https://pablogarciajc.com/wp-content/uploads/2026/05/BannerProfessional.webp)
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
